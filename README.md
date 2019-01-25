@@ -1,0 +1,2 @@
+# Sourceror
+Event Sourcing POC
